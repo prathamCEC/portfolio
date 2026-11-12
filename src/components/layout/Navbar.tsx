@@ -36,7 +36,7 @@ export default function Navbar() {
         </div>
 
         <a
-          href="/resume/resume.pdf"
+          href="/resume/K_Pratham_Kumar.pdf"
           download
           className="flex items-center gap-2 rounded-lg border border-white/20 px-4 py-2.5 text-sm transition-all hover:border-accent hover:text-accent"
         >

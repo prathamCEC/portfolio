@@ -26,8 +26,7 @@ export default function Hero() {
           </span>
 
           <h1 className="font-heading text-5xl font-bold leading-tight tracking-tight sm:text-6xl xl:text-7xl">
-            Pratham
-            <span className="block text-accent">Kumar.</span>
+            Pratham <span className="block text-accent">Kumar.</span>
           </h1>
 
           <p className="mt-6 text-base font-medium leading-relaxed text-white/80 sm:text-lg">

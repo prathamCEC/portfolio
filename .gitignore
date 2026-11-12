@@ -23,6 +23,9 @@ node_modules/
 .DS_Store
 *.pem
 
+# private resume
+/public/resume/
+
 # debug
 npm-debug.log*
 yarn-debug.log*
